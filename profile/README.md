@@ -2,14 +2,10 @@
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+🙋‍♀️ Cludus is an academic project focused on learning & practicing software engineering by creating a cloud system with modern features.
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 Contribution guidelines - We have a discord server. Please get in touch with us to be part of the team.
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+👩‍💻 Useful resources - TODO link to architecture explanation here.
 
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
+🍿 Fun facts - A lot of fun, but nothing remarkable to share here yet.
