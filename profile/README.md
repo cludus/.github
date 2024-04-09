@@ -2,7 +2,7 @@
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ Cludus is an academic project focused on learning & practicing software engineering by creating a cloud system with modern features.
+🙋‍♀️ Cludus is a space to capture software engineering best practices, to do infrastructure automation, and to test and implement modern technologies for data processing and cloud systems.
 
 🌈 Contribution guidelines - We have a discord server. Please get in touch with us to be part of the team.
 
